@@ -2,6 +2,7 @@
 name = "pdfinspector"
 version = "0.1.0"
 edition = "2024"
+license = "MIT"
 
 [dependencies]
 miniz_oxide = { version = "0.8.9", default-features = false, features = ["with-alloc"] }
